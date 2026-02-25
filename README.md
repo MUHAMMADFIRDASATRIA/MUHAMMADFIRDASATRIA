@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Satria
 
-<!--
-**MUHAMMADFIRDASATRIA/MUHAMMADFIRDASATRIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that work quietly but reliably behind the scenes.
 
-Here are some ideas to get you started:
+🎓 Informatics Engineering Student  
+🧠 Analytical thinker  
+💻 Backend & System-focused developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do
+
+- Design RESTful APIs
+- Build structured project management systems
+- Develop data-driven applications
+- Explore machine learning for real-world problems
+
+---
+
+### Current Focus
+
+- Backend Architecture
+- Clean Code & Repository Pattern
+- System Optimization
+- Machine Learning in Web Applications
+
+---
+
+### Projects
+
+🚀 TaskTracker — Web-based project management system  
+💼 CareerID — Career analysis & document assistant  
+🛠 JasaKu — Digital service marketplace  
+📊 Twitter Depression Research — Naïve Bayes Classification  
+🌿 Grapevine Image Classification — Computer Vision  
+
+---
+
+> “Calm systems. Clear logic. Clean architecture.”
